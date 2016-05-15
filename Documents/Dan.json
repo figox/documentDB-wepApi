@@ -1,0 +1,15 @@
+{
+    "id" : "1",
+    "Name": "Dan Castellaneta",
+    "Characters": [
+        "Homer",
+        "Grampa",
+        "Barney",
+        "Krusty",
+        "Willie",
+        "Mayor Quimby",
+        "Hans Moleman",
+        "Others"
+    ],
+    "WikiUrl": "https://en.wikipedia.org/wiki/Dan_Castellaneta"
+}

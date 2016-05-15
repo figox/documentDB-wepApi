@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5EEE8F15-5A5F-4992-B2FC-6808D9B87AF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B1ED51B1-10C8-4F92-92B5-B7349308C6FF}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SimpsonsAPI", "src\SimpsonsAPI\SimpsonsAPI.xproj", "{33F25DB0-3E05-4F47-A140-1E2CBCEE3027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33F25DB0-3E05-4F47-A140-1E2CBCEE3027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F25DB0-3E05-4F47-A140-1E2CBCEE3027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F25DB0-3E05-4F47-A140-1E2CBCEE3027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F25DB0-3E05-4F47-A140-1E2CBCEE3027}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{33F25DB0-3E05-4F47-A140-1E2CBCEE3027} = {5EEE8F15-5A5F-4992-B2FC-6808D9B87AF7}
+	EndGlobalSection
+EndGlobal
